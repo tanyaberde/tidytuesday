@@ -1,6 +1,6 @@
 # PhDs Awarded by Field
 
-From [original Tidy Tuesday repo](https://github.com/rfordatascience/tidytuesday)  
+From [original Tidy Tuesday repo](https://github.com/rfordatascience/tidytuesday):  
 
 [Dr. Ellie Murray](https://twitter.com/EpiEllie) proposed a [DataViz challenge](https://twitter.com/EpiEllie/status/1096876638632140805) for the `#epibookclub` based around the number of PhD degrees awraded in the USA. As an epidemiology postdoc she was especially interested in how others would approach DataViz for Epidemiology PhDs. There are additional fields within this dataset, so take a crack at whatever looks interesting!
 
